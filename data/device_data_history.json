@@ -1,0 +1,975 @@
+{
+    "app_id": "e4f9adaf0bc2c2ca83ae88ebf529",
+    "collection_id": "bea7bbaf0be8a1e094a29bf2bf8901",
+    "items": [
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6288,25457,15863,34049]",
+            "inputs": null,
+            "item_id": "03b55fcc-24a6-4d5c-a668-54ca119b2a59",
+            "timestamp": "2018-05-13T01:37:45.544Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4605,43803,40890,26566]",
+            "inputs": null,
+            "item_id": "03d62ed7-7b5d-4e05-a0fd-5a4efa8c082e",
+            "timestamp": "2018-05-13T01:38:57.482Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4548,43807,40892,26581]",
+            "inputs": null,
+            "item_id": "06baf3ca-75e4-4053-98fe-34313de663dc",
+            "timestamp": "2018-05-13T01:39:10.202Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20572,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "075c2ea0-2f15-4aa7-a9b6-59d9ffa093bb",
+            "timestamp": "2018-05-13T01:38:27.959Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20454,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "0826bc85-748b-4668-98ec-2a3f44a4777e",
+            "timestamp": "2018-05-13T01:38:21.117Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6291,25459,15863,34033]",
+            "inputs": null,
+            "item_id": "09dfba67-3b9f-4115-9fe4-594af8d167d7",
+            "timestamp": "2018-05-13T01:37:24.656Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4548,43806,40890,26585]",
+            "inputs": null,
+            "item_id": "0a9ae040-1c2e-4b8c-888d-7017f603ed18",
+            "timestamp": "2018-05-13T01:39:11.931Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": null,
+            "inputs": "[true,false,false,true]",
+            "item_id": "0bfa4456-fcf8-4d5b-bc2b-7e4bf373f49b",
+            "timestamp": "2018-05-13T01:35:45.302Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4702,43801,40894,26558]",
+            "inputs": null,
+            "item_id": "104f4ce5-7f44-4514-82ae-1d4a23abd15f",
+            "timestamp": "2018-05-13T01:38:53.831Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20693,13835,34920,65535]",
+            "inputs": null,
+            "item_id": "117699a4-04d4-45c7-8e4d-aa6b658cb37b",
+            "timestamp": "2018-05-13T01:32:45.378Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20509,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "124fb803-8a59-4ba0-8dcd-f19380b3325e",
+            "timestamp": "2018-05-13T01:38:22.38Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20574,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "1293c85f-0497-41cb-a08c-0cc7d4d1ffc4",
+            "timestamp": "2018-05-13T01:38:33.588Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6291,25459,15865,34030]",
+            "inputs": null,
+            "item_id": "133cd9b3-a2d9-4412-afed-c0b37b5563c2",
+            "timestamp": "2018-05-13T01:37:25.801Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[797,25460,65535,34062]",
+            "inputs": null,
+            "item_id": "150ddf08-21b9-47c9-b858-50731537bb14",
+            "timestamp": "2018-05-13T01:38:05.834Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[19945,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "16680cee-d8aa-4b57-ad70-7c1ba27e6ab5",
+            "timestamp": "2018-05-13T01:38:18.469Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[9728,43811,40892,26520]",
+            "inputs": null,
+            "item_id": "16765faf-fd9c-4f0a-bd2c-2c9afb7bc020",
+            "timestamp": "2018-05-13T01:38:40.738Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[19535,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "16fae4f3-2383-4bdc-b80e-103af95cd28f",
+            "timestamp": "2018-05-13T01:38:16.896Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6287,25458,15863,34050]",
+            "inputs": null,
+            "item_id": "179688fe-4b10-4c93-933c-3d77a665c340",
+            "timestamp": "2018-05-13T01:37:49.315Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6296,25460,65535,34056]",
+            "inputs": null,
+            "item_id": "1c2a5172-33a2-4241-b478-cc767655df57",
+            "timestamp": "2018-05-13T01:38:04.5Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6290,25458,15867,34055]",
+            "inputs": null,
+            "item_id": "21e336e4-6e62-4f76-ba84-911c06567b6e",
+            "timestamp": "2018-05-13T01:37:58.834Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[5676,43807,40895,26534]",
+            "inputs": null,
+            "item_id": "230445eb-478c-415b-8c7d-cca78d56e1d2",
+            "timestamp": "2018-05-13T01:38:45.846Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4634,43803,40892,26566]",
+            "inputs": null,
+            "item_id": "23d51bbf-a197-48eb-ab75-4a35fc211c32",
+            "timestamp": "2018-05-13T01:38:55.212Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20613,13836,34920,65535]",
+            "inputs": null,
+            "item_id": "242f4e3b-892e-4d69-abb2-bd7433d330a9",
+            "timestamp": "2018-05-13T01:34:45.37Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6288,25458,15864,34043]",
+            "inputs": null,
+            "item_id": "2b3a337f-83b8-4ba9-88f5-1525fee3d87f",
+            "timestamp": "2018-05-13T01:37:34.336Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20341,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "30007de9-5681-4050-ac96-25c42173ace3",
+            "timestamp": "2018-05-13T01:38:19.923Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6287,25459,15868,34058]",
+            "inputs": null,
+            "item_id": "35299bc5-57cc-44b4-a177-b69d61515e69",
+            "timestamp": "2018-05-13T01:38:03.41Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6289,25458,15859,33996]",
+            "inputs": null,
+            "item_id": "352e0688-de8a-489d-b6af-02b642bccae0",
+            "timestamp": "2018-05-13T01:36:44.979Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4583,43803,40888,26566]",
+            "inputs": null,
+            "item_id": "3bf662ee-1c71-4b91-86eb-7936f2dff888",
+            "timestamp": "2018-05-13T01:38:58.756Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6291,25458,15867,34058]",
+            "inputs": null,
+            "item_id": "3d7a16ed-792d-40d2-b108-3a263357f8b4",
+            "timestamp": "2018-05-13T01:38:01.091Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[14550,27098,65535,26522]",
+            "inputs": null,
+            "item_id": "3e1924dc-08a5-4140-a29f-f2e3f34919ed",
+            "timestamp": "2018-05-13T01:38:38.699Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6286,25459,15863,34030]",
+            "inputs": null,
+            "item_id": "3f6ae192-c69f-4306-b185-8cb49a4a522f",
+            "timestamp": "2018-05-13T01:37:22.523Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[50659,25458,65535,34062]",
+            "inputs": null,
+            "item_id": "3f832310-ccdb-4eff-bdae-073521d406e6",
+            "timestamp": "2018-05-13T01:38:07.654Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[17739,26458,65535,65535]",
+            "inputs": null,
+            "item_id": "41b350c4-000c-4a51-b9aa-85f628d4b7d7",
+            "timestamp": "2018-05-13T01:38:14.685Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[18860,26458,65535,65535]",
+            "inputs": null,
+            "item_id": "425f5143-fd40-4ef6-a58d-e0b21d604ee1",
+            "timestamp": "2018-05-13T01:38:16.121Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20576,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "44b70fa2-ae1f-4a69-bfa0-0071ab4c8fba",
+            "timestamp": "2018-05-13T01:38:30.32Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6294,25458,15863,34046]",
+            "inputs": null,
+            "item_id": "488127d8-fa6a-411a-b61d-eb6d6e08e6eb",
+            "timestamp": "2018-05-13T01:37:40.981Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20577,26458,65535,65535]",
+            "inputs": null,
+            "item_id": "4f8f4d8a-2d05-40aa-8ae0-82dafacde36e",
+            "timestamp": "2018-05-13T01:38:32.761Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6606,43806,40897,26527]",
+            "inputs": null,
+            "item_id": "53bc664f-be1b-4bc5-9f99-67fbf54971d7",
+            "timestamp": "2018-05-13T01:38:43.864Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6286,25459,15864,34032]",
+            "inputs": null,
+            "item_id": "58c5e02c-0d1d-42b5-b0bb-6b92f713455b",
+            "timestamp": "2018-05-13T01:37:23.693Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6290,25458,15863,34043]",
+            "inputs": null,
+            "item_id": "5aafa7a2-448d-4371-943c-d9ac6b4be55a",
+            "timestamp": "2018-05-13T01:37:42.163Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4556,43805,40898,26576]",
+            "inputs": null,
+            "item_id": "5e0f43ea-102a-4438-a8f5-33632323f78f",
+            "timestamp": "2018-05-13T01:39:06.031Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4750,43803,40893,26552]",
+            "inputs": null,
+            "item_id": "5e7d083f-7616-4cf8-8c9a-2eddafa75b60",
+            "timestamp": "2018-05-13T01:38:52.88Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[5391,43807,40898,26537]",
+            "inputs": null,
+            "item_id": "617bedad-f577-425a-b892-a93154ecac59",
+            "timestamp": "2018-05-13T01:38:46.853Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6069,43806,40894,26529]",
+            "inputs": null,
+            "item_id": "6392c468-a717-4e10-96e6-9658a46b3be4",
+            "timestamp": "2018-05-13T01:38:45.12Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6292,25458,15866,34040]",
+            "inputs": null,
+            "item_id": "645f7cf4-f224-4def-b25b-09cac1d23547",
+            "timestamp": "2018-05-13T01:37:30.502Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6292,25458,15862,34046]",
+            "inputs": null,
+            "item_id": "67e8099e-2ded-4500-8dc1-bdb89b43828b",
+            "timestamp": "2018-05-13T01:37:39.947Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20648,13836,34920,65535]",
+            "inputs": null,
+            "item_id": "692620e0-46cc-4c89-b8d6-15c3be4bf4c7",
+            "timestamp": "2018-05-13T01:33:45.143Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6288,25459,15863,34027]",
+            "inputs": null,
+            "item_id": "6a3aceb8-dbd4-4cd8-9fae-7969d2bc6ae2",
+            "timestamp": "2018-05-13T01:37:18.087Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6285,25458,15864,34025]",
+            "inputs": null,
+            "item_id": "6c93256a-5daf-44b4-8244-8a6afd1fea23",
+            "timestamp": "2018-05-13T01:37:20.004Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6285,25458,15864,34054]",
+            "inputs": null,
+            "item_id": "6e7c79ef-00b8-4b20-9618-075d9868049a",
+            "timestamp": "2018-05-13T01:37:51.983Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4554,43806,40897,26572]",
+            "inputs": null,
+            "item_id": "6ec4f420-0629-43a2-b38c-0fd4bd13fdc0",
+            "timestamp": "2018-05-13T01:39:07.078Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[26365,25458,65535,34061]",
+            "inputs": null,
+            "item_id": "71e2217a-132a-444e-b5b4-234572240aac",
+            "timestamp": "2018-05-13T01:38:10.713Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20577,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "71efdc78-8e61-4886-a9ae-28cd8602e803",
+            "timestamp": "2018-05-13T01:38:31.399Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6288,25458,15865,34043]",
+            "inputs": null,
+            "item_id": "797b4f57-9b78-4e66-be76-30977f0af8e3",
+            "timestamp": "2018-05-13T01:37:33.105Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20560,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "81056072-69ab-4538-b526-d92e54038931",
+            "timestamp": "2018-05-13T01:38:25.143Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4900,43803,40898,26547]",
+            "inputs": null,
+            "item_id": "81942036-502c-414b-ad8a-26c7ffbd55e5",
+            "timestamp": "2018-05-13T01:38:50.253Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6465,25457,15849,33964]",
+            "inputs": null,
+            "item_id": "86bc36a4-f01a-4ba9-8ebf-a2b9c2cef754",
+            "timestamp": "2018-05-13T01:35:45.462Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6289,25458,15862,34048]",
+            "inputs": null,
+            "item_id": "86cefb71-fa23-4bef-bda9-5e3ee0bb9a16",
+            "timestamp": "2018-05-13T01:37:43.335Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[5065,43805,40902,26543]",
+            "inputs": null,
+            "item_id": "86f6eb6d-4d40-4c15-b7a7-ebfe6a133a77",
+            "timestamp": "2018-05-13T01:38:48.865Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4551,43805,40889,26580]",
+            "inputs": null,
+            "item_id": "8818baf2-4c16-4cd7-bc86-832bb908799d",
+            "timestamp": "2018-05-13T01:39:09.129Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20579,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "8b62c42a-50c9-4ca6-997c-f31441049206",
+            "timestamp": "2018-05-13T01:38:36.889Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6290,25459,15866,34038]",
+            "inputs": null,
+            "item_id": "8f558c00-d5ff-4032-aa93-eeff4c21266d",
+            "timestamp": "2018-05-13T01:37:27.038Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6288,25458,15866,34055]",
+            "inputs": null,
+            "item_id": "94eeb88d-8054-4e82-8a3a-b796d368b0ff",
+            "timestamp": "2018-05-13T01:37:54.373Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20581,27288,65535,65535]",
+            "inputs": null,
+            "item_id": "969fb246-549f-40a6-9497-84225891250f",
+            "timestamp": "2018-05-13T01:38:37.608Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6289,25458,15865,34054]",
+            "inputs": null,
+            "item_id": "97dc2b05-bb0d-42cb-9ff9-f2ece9f4180f",
+            "timestamp": "2018-05-13T01:37:51.44Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4564,43805,40901,26572]",
+            "inputs": null,
+            "item_id": "9bef9f59-b8ad-45a0-9b7e-e89c1d7206ef",
+            "timestamp": "2018-05-13T01:39:02.506Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6288,25458,15865,34054]",
+            "inputs": null,
+            "item_id": "9e652fd6-5c47-45ee-addb-19c889b3620d",
+            "timestamp": "2018-05-13T01:37:53.271Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6291,25458,15863,34051]",
+            "inputs": null,
+            "item_id": "a2ae5985-2ce3-42fa-85c8-42274a476373",
+            "timestamp": "2018-05-13T01:37:37.636Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6289,25457,15866,34055]",
+            "inputs": null,
+            "item_id": "a60be607-a0e9-4787-856f-dc475e87aa62",
+            "timestamp": "2018-05-13T01:37:59.731Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4548,43807,40888,26584]",
+            "inputs": null,
+            "item_id": "a848f2ce-6af4-4b61-8e9c-de508b98dcd6",
+            "timestamp": "2018-05-13T01:39:14.139Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[16611,25459,65535,34060]",
+            "inputs": null,
+            "item_id": "add39378-e2fc-49c0-ae91-791f4314330d",
+            "timestamp": "2018-05-13T01:38:12.481Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4576,43802,40893,26565]",
+            "inputs": null,
+            "item_id": "b2756cda-4308-408f-8348-f7314461215e",
+            "timestamp": "2018-05-13T01:39:00.78Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6293,25459,15865,34032]",
+            "inputs": null,
+            "item_id": "b46f95f3-5ab1-4298-9d96-134782f889f7",
+            "timestamp": "2018-05-13T01:37:28.245Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": null,
+            "inputs": "[true,true,true,true]",
+            "item_id": "b700704d-1a22-4d5a-89bd-0adbd18e94c7",
+            "timestamp": "2018-05-13T01:32:45.412Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4561,43805,40898,26572]",
+            "inputs": null,
+            "item_id": "b78a52d2-cd16-455d-8365-03fd4cef5cc6",
+            "timestamp": "2018-05-13T01:39:03.966Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[11650,43810,40920,26523]",
+            "inputs": null,
+            "item_id": "bad71893-86b7-4cc6-89de-b88f5c1b0360",
+            "timestamp": "2018-05-13T01:38:39.807Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6292,25458,15865,34033]",
+            "inputs": null,
+            "item_id": "c1d8e0b1-a1f5-42f0-8381-7aee7122c1c3",
+            "timestamp": "2018-05-13T01:37:29.329Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20569,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "cae6df4b-287f-4cdc-9d5f-b6bc28689fd8",
+            "timestamp": "2018-05-13T01:38:26.934Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20434,13839,34926,65535]",
+            "inputs": null,
+            "item_id": "cc81f33d-40c5-4e60-8a61-2c93f0e4e398",
+            "timestamp": "2018-05-12T22:34:44.986Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4558,43805,40898,26575]",
+            "inputs": null,
+            "item_id": "ccbf8d4e-a58e-4c2b-acbd-857d62770d5c",
+            "timestamp": "2018-05-13T01:39:05.203Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20573,26458,65535,65535]",
+            "inputs": null,
+            "item_id": "d23a73d4-d724-4a2f-985e-7ce8006cb4fd",
+            "timestamp": "2018-05-13T01:38:29.011Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4814,43803,40893,26546]",
+            "inputs": null,
+            "item_id": "d4cbc046-a867-46b3-b93f-929dddc54e4e",
+            "timestamp": "2018-05-13T01:38:51.002Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20541,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "d661e455-5b69-425d-b13c-f049f7552fca",
+            "timestamp": "2018-05-13T01:38:24.443Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6293,25458,15868,34058]",
+            "inputs": null,
+            "item_id": "d72bbe1a-efac-4f89-aafc-8df1545215d7",
+            "timestamp": "2018-05-13T01:38:02.349Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6284,25457,15863,34050]",
+            "inputs": null,
+            "item_id": "d78fe229-6ca9-4c27-8cfa-f2a15d31fe83",
+            "timestamp": "2018-05-13T01:37:46.757Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20576,26458,65535,65535]",
+            "inputs": null,
+            "item_id": "d90b4d3e-3f6d-4363-9efd-6a75c6b385e4",
+            "timestamp": "2018-05-13T01:38:35.19Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[37633,25458,65535,34064]",
+            "inputs": null,
+            "item_id": "dce5ab89-03cf-48fd-b3f2-f9585713d8e5",
+            "timestamp": "2018-05-13T01:38:08.745Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6289,25458,15863,34043]",
+            "inputs": null,
+            "item_id": "de772fd7-2921-4691-a0c1-1d23f5c460c3",
+            "timestamp": "2018-05-13T01:37:35.652Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6290,25457,15866,34057]",
+            "inputs": null,
+            "item_id": "e017cf0c-f72a-4705-8732-ac95ade9d051",
+            "timestamp": "2018-05-13T01:37:56.64Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[7339,43808,40899,26529]",
+            "inputs": null,
+            "item_id": "e96690f4-4b80-4491-b0f0-b58ff93acaeb",
+            "timestamp": "2018-05-13T01:38:42.64Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6285,25458,15863,34028]",
+            "inputs": null,
+            "item_id": "ea4c70ec-00f4-45dd-b607-da75f0738a18",
+            "timestamp": "2018-05-13T01:37:21.162Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[15859,26458,65535,65535]",
+            "inputs": null,
+            "item_id": "efe52e8e-d287-41a2-a04f-0d5d04463042",
+            "timestamp": "2018-05-13T01:38:13.717Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20192,26459,65535,65535]",
+            "inputs": null,
+            "item_id": "f0e2b891-a939-492f-9703-ff3bdbca9e4c",
+            "timestamp": "2018-05-13T01:38:19.059Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6294,25458,15862,34046]",
+            "inputs": null,
+            "item_id": "f0ec51b9-82c5-4f91-a083-1b19b5dc42ba",
+            "timestamp": "2018-05-13T01:37:38.05Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6286,25458,15864,34049]",
+            "inputs": null,
+            "item_id": "f1dd4242-5d8b-4b72-8c68-22a16b881d58",
+            "timestamp": "2018-05-13T01:37:48.412Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[20434,13839,34925,65535]",
+            "inputs": null,
+            "item_id": "f5697a42-78ae-494f-a80c-85e4e7e19146",
+            "timestamp": "2018-05-12T22:35:44.957Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6287,25457,15865,34056]",
+            "inputs": null,
+            "item_id": "f87041d6-b786-40c8-99c1-95bd43b41717",
+            "timestamp": "2018-05-13T01:37:55.724Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[65535,25462,65535,34063]",
+            "inputs": null,
+            "item_id": "f9943618-590c-4730-9135-5b4754c449af",
+            "timestamp": "2018-05-13T01:38:06.587Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4552,43805,40895,26577]",
+            "inputs": null,
+            "item_id": "fa712b3d-1de4-43d0-867d-094aeb797545",
+            "timestamp": "2018-05-13T01:39:07.894Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4666,43802,40892,26557]",
+            "inputs": null,
+            "item_id": "fadb3b8f-8e7b-4745-8cb6-fd1b74efc886",
+            "timestamp": "2018-05-13T01:38:54.319Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6289,25458,15863,34045]",
+            "inputs": null,
+            "item_id": "fb1e31c2-035a-459a-b4f3-346b0b4a6fe2",
+            "timestamp": "2018-05-13T01:37:44.44Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4569,43803,40894,26566]",
+            "inputs": null,
+            "item_id": "fbfec686-7c48-47e7-9469-50902136c8ce",
+            "timestamp": "2018-05-13T01:39:01.401Z"
+        },
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[6291,25458,15865,34042]",
+            "inputs": null,
+            "item_id": "fef59095-fb1c-4c75-99fb-316421813687",
+            "timestamp": "2018-05-13T01:37:31.969Z"
+        }
+    ],
+    "name": "device_data_history",
+    "permissions": {
+        "Anonymous": 1,
+        "Authenticated": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "coils",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "inputs",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "input_registers",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "timestamp",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "deviceid",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "holding_registers",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
