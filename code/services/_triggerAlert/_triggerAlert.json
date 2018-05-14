@@ -1,0 +1,14 @@
+{
+    "current_version": 10,
+    "dependencies": "http,clearblade,log,qLib",
+    "logging_enabled": "false",
+    "name": "_triggerAlert",
+    "params": [],
+    "permissions": {
+        "Administrator": 1,
+        "Anonymous": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "_triggerAlert.js"
+}
