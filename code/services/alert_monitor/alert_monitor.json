@@ -1,0 +1,10 @@
+{
+    "current_version": 1,
+    "dependencies": "clearblade,globals,log,qLib",
+    "logging_enabled": "true",
+    "name": "alert_monitor",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "alert_monitor.js"
+}
