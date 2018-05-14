@@ -1,0 +1,82 @@
+{
+    "app_id": "e4f9adaf0bc2c2ca83ae88ebf529",
+    "collection_id": "fad4aeaf0bc2d3cbc0a4b1fca1cc01",
+    "items": [
+        {
+            "id": "site_attribute_1",
+            "item_id": "510f36e9-827c-403f-9eee-2e7823063cd6",
+            "name": "Street",
+            "table_name": "sites"
+        },
+        {
+            "id": "longitude",
+            "item_id": "6cd3534a-4b23-4f67-a176-81c38ecbd035",
+            "name": "longitude",
+            "table_name": "sites"
+        },
+        {
+            "id": "group_attribute_3",
+            "item_id": "92a57f1a-eeb3-4e64-8387-7f2c00885b66",
+            "name": "SubDivision",
+            "table_name": "sites"
+        },
+        {
+            "id": "latitude",
+            "item_id": "96b39b26-b362-4774-9b66-fe78eb4fb541",
+            "name": "latitude",
+            "table_name": "sites"
+        },
+        {
+            "id": "group_attribute_2",
+            "item_id": "a2ec5a82-33ea-4bc2-b75b-d00df0953334",
+            "name": "Division",
+            "table_name": "sites"
+        },
+        {
+            "id": "group_attribute_1",
+            "item_id": "c749204e-333f-453c-997f-2f2e01789b02",
+            "name": "Railroad",
+            "table_name": "sites"
+        },
+        {
+            "id": "site_attribute_2",
+            "item_id": "d97cc082-840f-4e67-880d-cc728b2f95da",
+            "name": "MilePost",
+            "table_name": "sites"
+        },
+        {
+            "id": "site_id",
+            "item_id": "eda90eba-e640-464e-aaca-c7ce11322660",
+            "name": "Crossing",
+            "table_name": "sites"
+        }
+    ],
+    "name": "sys_attributes_maps",
+    "permissions": {
+        "Administrator": 1,
+        "Anonymous": 1,
+        "Authenticated": 1
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "table_name",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
