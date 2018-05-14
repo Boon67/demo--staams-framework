@@ -1,0 +1,13 @@
+{
+    "current_version": 78,
+    "dependencies": "qLib,clearblade,log,globals",
+    "logging_enabled": "false",
+    "name": "sites",
+    "params": [],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "sites.js"
+}
