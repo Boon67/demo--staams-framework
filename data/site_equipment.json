@@ -1,0 +1,69 @@
+{
+    "app_id": "e4f9adaf0bc2c2ca83ae88ebf529",
+    "collection_id": "f4f9adaf0bf8e1a688ef9de6db61",
+    "items": [
+        {
+            "address": "192.168.1.241",
+            "data_aquisition_attributes": "{\"UNITID\":0,\"INPUTS_ADDR\":0,\"INPUTS_LENGTH\":4,\"INPUT_REGISTERS_ADDR\":512,\"INPUT_REGISTERS_LENGTH\":4}",
+            "display_attributes": "{\"inputs\":[{\"name\":\"XRelay\"},{\"name\":\"Gate Up\"},{\"name\":\"Gate Down\"},{\"name\":\"AC Power\",\"alert\":1}],\"input_registers\":[{\"name\":\"AC Voltage\",\"alert\":1,\"comp\":90,\"max\":600,\"min\":100},{\"name\":\"DC Voltage\",\"alert\":1,\"comp\":90,\"max\":500,\"min\":60},{\"name\":\"Battery Temp\",\"alert\":1,\"comp\":90,\"max\":800,\"min\":80},{\"name\":\"Battery Level\",\"alert\":40,\"comp\":650,\"max\":100,\"min\":40}]}",
+            "edgeid": "moxa8100",
+            "equipment_name": "ioLogik",
+            "facil_id": "069025P",
+            "item_id": "b3cf46c8-521b-49d3-8b2a-38894e7c3682",
+            "model": "1242",
+            "type": "collector"
+        }
+    ],
+    "name": "site_equipment",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 1
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "edgeid",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "equipment_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "model",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "type",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "address",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "display_attributes",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "data_aquisition_attributes",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "facil_id",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
