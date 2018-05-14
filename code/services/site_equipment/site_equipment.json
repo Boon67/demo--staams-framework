@@ -1,0 +1,13 @@
+{
+    "current_version": 2,
+    "dependencies": "clearblade,log,qLib,globals",
+    "logging_enabled": "true",
+    "name": "site_equipment",
+    "params": [],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "site_equipment.js"
+}
