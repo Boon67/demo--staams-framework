@@ -1,0 +1,56 @@
+{
+    "app_id": "e4f9adaf0bc2c2ca83ae88ebf529",
+    "collection_id": "ecf9adaf0b94f3979db2ffc9b5be01",
+    "items": [
+        {
+            "coils": null,
+            "deviceid": "moxa8100",
+            "holding_registers": null,
+            "input_registers": "[4548,43807,40888,26584]",
+            "inputs": "[true,false,false,true]",
+            "item_id": "23511528-ddd1-482a-afd7-20d198b8d2ad",
+            "timestamp": "2018-05-13T01:35:45.05Z"
+        }
+    ],
+    "name": "device_data",
+    "permissions": {
+        "Authenticated": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "coils",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "inputs",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "input_registers",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "timestamp",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "deviceid",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "holding_registers",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
