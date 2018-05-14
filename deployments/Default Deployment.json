@@ -1,0 +1,86 @@
+{
+    "assets": [
+        {
+            "asset_class": "devices",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "services",
+            "asset_id": "_requestDeviceData",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "services",
+            "asset_id": "_clearMessageQueues",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "services",
+            "asset_id": "_processResponseMessages",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "libraries",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "device_data_historian",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "site_equipment",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "adaptors",
+            "asset_id": "modbusAdapter",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "device_data",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "device_data_history",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "services",
+            "asset_id": "_triggerAlert",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        }
+    ],
+    "description": "",
+    "edges": [
+        "___ALL_EDGES___"
+    ],
+    "name": "Default Deployment"
+}
