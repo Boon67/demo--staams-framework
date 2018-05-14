@@ -1,0 +1,10 @@
+{
+    "current_version": 5,
+    "dependencies": "clearblade,log,qLib",
+    "logging_enabled": "false",
+    "name": "loadMappings",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "loadMappings.js"
+}
