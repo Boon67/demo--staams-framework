@@ -1,0 +1,13 @@
+{
+    "current_version": 21,
+    "dependencies": "clearblade,qLib,log",
+    "logging_enabled": "false",
+    "name": "sys_attribute_maps",
+    "params": [],
+    "permissions": {
+        "Anonymous": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "sys_attribute_maps.js"
+}
