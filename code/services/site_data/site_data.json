@@ -1,0 +1,10 @@
+{
+    "current_version": 1,
+    "dependencies": "clearblade,globals,log,qLib",
+    "logging_enabled": "false",
+    "name": "site_data",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "site_data.js"
+}
