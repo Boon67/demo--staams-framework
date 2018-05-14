@@ -1,0 +1,66 @@
+{
+    "app_id": "e4f9adaf0bc2c2ca83ae88ebf529",
+    "collection_id": "eaf9adaf0bc8f2c8ac96efa1b6a701",
+    "items": [
+        {
+            "alertname": "Power Fail",
+            "alerttype": "warning",
+            "alertvalue": "0",
+            "item_id": "1992eaac-cd88-47c5-a53e-cd39c8cc9bf3",
+            "site": "200276",
+            "site_id": "697cea50-5e7c-4ab9-ad66-76d9969f1d57",
+            "timestamp": "1525707744"
+        },
+        {
+            "alertname": "Power Restored",
+            "alerttype": "info",
+            "alertvalue": "1",
+            "item_id": "5ce994ae-e8c2-4c26-a26b-1b0bb35d67c3",
+            "site": "200276",
+            "site_id": "697cea50-5e7c-4ab9-ad66-76d9969f1d57",
+            "timestamp": "1525700000"
+        }
+    ],
+    "name": "alerts",
+    "permissions": {
+        "Administrator": 7,
+        "Authenticated": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "alertname",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "alertvalue",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "timestamp",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "site_id",
+            "ColumnType": "uuid",
+            "PK": false
+        },
+        {
+            "ColumnName": "site",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "alerttype",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
