@@ -1,0 +1,529 @@
+{
+    "Description": "Default role that is applied to all authenticated users",
+    "ID": "Authenticated",
+    "Name": "Authenticated",
+    "Permissions": {
+        "AllCollections": {
+            "Level": 0
+        },
+        "AllServices": {
+            "Level": 0
+        },
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "_processModBusResponse",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "_processResponseMessages",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "_readHoldingRegisters",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "_readInputRegisters",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "_requestCoils",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "_requestDeviceData",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "_requestInputs",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "_triggerAlert",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "application_properties",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "device_data",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "device_data_historian",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "device_profile",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "device_profiles",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "device_properties",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "edge_properties",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "filterCrossings",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "firmware_data",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "http_weather",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "integration_lookup",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "message_firmwareMonitor",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "portal_firmwareList",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "portal_loadDeviceData",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "portal_locations",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "portal_waysides",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "retrieveDeviceData",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "site_equipment",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "sites",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "sys_attribute_maps",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "sys_firmware",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "system_firmware",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "triggerAlert",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "84bb8daa0ba2dc8880e6f482c25b",
+                "Items": [],
+                "Level": 1,
+                "Name": "84bb8daa0ba2dc8880e6f482c25b"
+            },
+            {
+                "Columns": [],
+                "ID": "8a8acca90bb8d0c7e0b9f1e5e7b201",
+                "Items": [],
+                "Level": 7,
+                "Name": "8a8acca90bb8d0c7e0b9f1e5e7b201"
+            },
+            {
+                "Columns": [],
+                "ID": "8aebcfa90b80c79e95d0ededd95c",
+                "Items": [],
+                "Level": 7,
+                "Name": "8aebcfa90b80c79e95d0ededd95c"
+            },
+            {
+                "Columns": [],
+                "ID": "92bbaeaf0baee7aca1c0fddbd44f",
+                "Items": [],
+                "Level": 1,
+                "Name": "92bbaeaf0baee7aca1c0fddbd44f"
+            },
+            {
+                "Columns": [],
+                "ID": "9ac08daa0bc6cb9cef8dcbf8f852",
+                "Items": [],
+                "Level": 1,
+                "Name": "9ac08daa0bc6cb9cef8dcbf8f852"
+            },
+            {
+                "Columns": [],
+                "ID": "aee8cfa90bb49a89cdc1b4a1fe33",
+                "Items": [],
+                "Level": 7,
+                "Name": "aee8cfa90bb49a89cdc1b4a1fe33"
+            },
+            {
+                "Columns": [],
+                "ID": "b8f287ae0bb29cddf79bb2cad61f",
+                "Items": [],
+                "Level": 7,
+                "Name": "alerts"
+            },
+            {
+                "Columns": [],
+                "ID": "e4e4c6ae0bdac59bbb9eb2acd40f",
+                "Items": [],
+                "Level": 7,
+                "Name": "alerts"
+            },
+            {
+                "Columns": [],
+                "ID": "eaf9adaf0bc8f2c8ac96efa1b6a701",
+                "Items": [],
+                "Level": 7,
+                "Name": "alerts"
+            },
+            {
+                "Columns": [],
+                "ID": "b2dba7ad0ba6a9bcf092f5c0b2e301",
+                "Items": [],
+                "Level": 1,
+                "Name": "b2dba7ad0ba6a9bcf092f5c0b2e301"
+            },
+            {
+                "Columns": [],
+                "ID": "badcc4a90bb0dcc3ff9599faef58",
+                "Items": [],
+                "Level": 7,
+                "Name": "badcc4a90bb0dcc3ff9599faef58"
+            },
+            {
+                "Columns": [],
+                "ID": "beb6cca90bb4cdc288fcced3a746",
+                "Items": [],
+                "Level": 7,
+                "Name": "beb6cca90bb4cdc288fcced3a746"
+            },
+            {
+                "Columns": [],
+                "ID": "d4a6b5ac0bfe9f9d8d8be698f234",
+                "Items": [],
+                "Level": 1,
+                "Name": "d4a6b5ac0bfe9f9d8d8be698f234"
+            },
+            {
+                "Columns": [],
+                "ID": "bec9bcad0bcab3a5818bf494f840",
+                "Items": [],
+                "Level": 7,
+                "Name": "device_data"
+            },
+            {
+                "Columns": [],
+                "ID": "e6e4c6ae0b96d1c9e58486bfeefb01",
+                "Items": [],
+                "Level": 7,
+                "Name": "device_data"
+            },
+            {
+                "Columns": [],
+                "ID": "ecf9adaf0b94f3979db2ffc9b5be01",
+                "Items": [],
+                "Level": 7,
+                "Name": "device_data"
+            },
+            {
+                "Columns": [],
+                "ID": "e6e4c6ae0b909dabfba0a9edecc501",
+                "Items": [],
+                "Level": 7,
+                "Name": "device_data_historian"
+            },
+            {
+                "Columns": [],
+                "ID": "d2aa92ae0bc0d8f6c9edbabae606",
+                "Items": [],
+                "Level": 7,
+                "Name": "device_data_historian"
+            },
+            {
+                "Columns": [],
+                "ID": "bea7bbaf0be8a1e094a29bf2bf8901",
+                "Items": [],
+                "Level": 7,
+                "Name": "device_data_history"
+            },
+            {
+                "Columns": [],
+                "ID": "82aca0ac0b96c9bab6a28e9a91c001",
+                "Items": [],
+                "Level": 1,
+                "Name": "device_profiles"
+            },
+            {
+                "Columns": [],
+                "ID": "e4c6b5ac0b828de9d1cbbfb788ed01",
+                "Items": [],
+                "Level": 1,
+                "Name": "e4c6b5ac0b828de9d1cbbfb788ed01"
+            },
+            {
+                "Columns": [],
+                "ID": "e6e4c6ae0bf6878ebcc8aad3fcee01",
+                "Items": [],
+                "Level": 1,
+                "Name": "e6e4c6ae0bf6878ebcc8aad3fcee01"
+            },
+            {
+                "Columns": [],
+                "ID": "eaacb5ac0b8ecb80bdcf9f88ab26",
+                "Items": [],
+                "Level": 15,
+                "Name": "eaacb5ac0b8ecb80bdcf9f88ab26"
+            },
+            {
+                "Columns": [],
+                "ID": "eca9b5ac0b8af7879ba4f3a6e93c",
+                "Items": [],
+                "Level": 1,
+                "Name": "eca9b5ac0b8af7879ba4f3a6e93c"
+            },
+            {
+                "Columns": [],
+                "ID": "ece4c6ae0bba80bdcac89182dace01",
+                "Items": [],
+                "Level": 1,
+                "Name": "ece4c6ae0bba80bdcac89182dace01"
+            },
+            {
+                "Columns": [],
+                "ID": "ece4c6ae0beafdefa995babe86a501",
+                "Items": [],
+                "Level": 7,
+                "Name": "ece4c6ae0beafdefa995babe86a501"
+            },
+            {
+                "Columns": [],
+                "ID": "ecf9adaf0bf09da1a1bfd586d04b",
+                "Items": [],
+                "Level": 7,
+                "Name": "ecf9adaf0bf09da1a1bfd586d04b"
+            },
+            {
+                "Columns": [],
+                "ID": "e6e4c6ae0b88bec5dcc5a6b0b122",
+                "Items": [],
+                "Level": 1,
+                "Name": "edge_properties"
+            },
+            {
+                "Columns": [],
+                "ID": "90f3afad0b80c4ea83daa3abbb0d",
+                "Items": [],
+                "Level": 1,
+                "Name": "edge_properties"
+            },
+            {
+                "Columns": [],
+                "ID": "ecf9adaf0bfac38edf9f8dd1d51b",
+                "Items": [],
+                "Level": 1,
+                "Name": "edge_properties"
+            },
+            {
+                "Columns": [],
+                "ID": "eee4c6ae0be6e7d0a0d1f9f4837f",
+                "Items": [],
+                "Level": 1,
+                "Name": "eee4c6ae0be6e7d0a0d1f9f4837f"
+            },
+            {
+                "Columns": [],
+                "ID": "f286cca90bba89fa9eee82d4b938",
+                "Items": [],
+                "Level": 7,
+                "Name": "f286cca90bba89fa9eee82d4b938"
+            },
+            {
+                "Columns": [],
+                "ID": "faa5eba90b8cdcdfbccba7f8ab39",
+                "Items": [],
+                "Level": 7,
+                "Name": "faa5eba90b8cdcdfbccba7f8ab39"
+            },
+            {
+                "Columns": [],
+                "ID": "faadeba90bc082fabc9df8f7ffde01",
+                "Items": [],
+                "Level": 1,
+                "Name": "faadeba90bc082fabc9df8f7ffde01"
+            },
+            {
+                "Columns": [],
+                "ID": "84bdb7a90bc4a7c284de90e4b91b",
+                "Items": [],
+                "Level": 1,
+                "Name": "firmware"
+            },
+            {
+                "Columns": [],
+                "ID": "e8e4c6ae0b8cb3c893c1cd9fb1ab01",
+                "Items": [],
+                "Level": 1,
+                "Name": "firmware"
+            },
+            {
+                "Columns": [],
+                "ID": "eef9adaf0ba28ee283bfe8d4e83d",
+                "Items": [],
+                "Level": 1,
+                "Name": "firmware"
+            },
+            {
+                "Columns": [],
+                "ID": "8c9ea2aa0bf4dde89bf9b4d7e747",
+                "Items": [],
+                "Level": 7,
+                "Name": "locations"
+            },
+            {
+                "Columns": [],
+                "ID": "ecc8b5ac0b9cd1a7aeddc4cdddc301",
+                "Items": [],
+                "Level": 1,
+                "Name": "rail_crossings"
+            },
+            {
+                "Columns": [],
+                "ID": "fee8c9ae0bc4d487e6a4f1f5a931",
+                "Items": [],
+                "Level": 1,
+                "Name": "site_equipment"
+            },
+            {
+                "Columns": [],
+                "ID": "f4f9adaf0bf8e1a688ef9de6db61",
+                "Items": [],
+                "Level": 1,
+                "Name": "site_equipment"
+            },
+            {
+                "Columns": [],
+                "ID": "f4f9adaf0bd8e3ccf9fbc2b2a19601",
+                "Items": [],
+                "Level": 1,
+                "Name": "sites"
+            },
+            {
+                "Columns": [],
+                "ID": "aae6c6ae0bb2c7b5eb9e8ec5bbd601",
+                "Items": [],
+                "Level": 1,
+                "Name": "sites"
+            },
+            {
+                "Columns": [],
+                "ID": "fad4aeaf0bc2d3cbc0a4b1fca1cc01",
+                "Items": [],
+                "Level": 1,
+                "Name": "sys_attributes_maps"
+            },
+            {
+                "Columns": [],
+                "ID": "c4ddfdad0b86e2ddc6e0b9f48c8e01",
+                "Items": [],
+                "Level": 1,
+                "Name": "sys_firmware"
+            }
+        ],
+        "Deployments": {
+            "Level": 0
+        },
+        "DevicesList": {
+            "Level": 0
+        },
+        "EdgesList": {
+            "Level": 1
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [
+            {
+                "Level": 1,
+                "Name": "Device Management Portal",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "Crossing Management System",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            },
+            {
+                "Level": 1,
+                "Name": "Site Tracking and Monitoring",
+                "SystemKey": "e4f9adaf0bc2c2ca83ae88ebf529"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "Timers": {
+            "Level": 0
+        },
+        "Topics": [],
+        "Triggers": {
+            "Level": 1
+        },
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
